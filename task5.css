@@ -1,0 +1,22 @@
+body {
+  background-image: url("task5.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  overflow-y: hidden;
+}
+.container {
+  border: 2px solid black;
+  border-radius: 30px;
+  max-width: 600px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.input-section {
+  margin-bottom: 20px;
+}
+
+.weather-info {
+  font-size: 18px;
+}
